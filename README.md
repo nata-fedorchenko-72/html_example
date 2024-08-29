@@ -1,2 +1,2 @@
-# html_example
+# Test
 Простая страница
